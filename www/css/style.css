@@ -1,0 +1,23 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 22px; 
+}
+
+h1 {
+    color: teal;
+    font-family: 'Nova Flat', cursive;
+    font-size: 36px; 
+}
+
+a:link,a:visited {
+  color: black;
+}
+
+a:hover,a:active {
+  color: teal;
+}
+
+  
